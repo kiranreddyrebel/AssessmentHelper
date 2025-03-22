@@ -4,14 +4,16 @@
 To crack Assessments.
 
 # Features
--> Fully undetectable in latest Zoom
+-> Detect Text and gives AI generated response using GenAI.
 
--> Browser based screen sharing & recordings
+-> Fully undetectable in latest Zoom (most others too).
 
--> hides itself in process
+-> Hidden from Browser based screen sharings & recordings.
 
-** yet to test in Teams **
+-> Hides itself in running process.
 
+* What not tested yet -> Teams
+  
 # Screenshot
 
 ![2](https://github.com/user-attachments/assets/73675ca9-65d7-4436-98b9-da8fbd70e1d4)
