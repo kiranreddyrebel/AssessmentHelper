@@ -13,6 +13,9 @@ To crack Assessments.
 -> Hides itself in running process.
 
 * What not tested yet -> Teams
+
+# other upcoming features
+-> You suggest me.
   
 # Screenshot
 
