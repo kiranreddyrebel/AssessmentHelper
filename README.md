@@ -12,6 +12,8 @@ To crack Assessments.
 
 -> Hides itself in running process.
 
+-> Bypassed "SecuredExamBrowser" using DLL injection method.
+
 * What not tested yet -> Teams
 
 # other upcoming features
@@ -22,4 +24,9 @@ To crack Assessments.
 ![2](https://github.com/user-attachments/assets/73675ca9-65d7-4436-98b9-da8fbd70e1d4)
 
 ![3](https://github.com/user-attachments/assets/80652d53-138b-4c97-a022-b392250809ec)
+
+-> Running Helper application on top of "Secured Exam Browser"
+
+![4](https://github.com/user-attachments/assets/062eb8ec-cbc8-40fc-9616-33cd99cdbe6e)
+
 
